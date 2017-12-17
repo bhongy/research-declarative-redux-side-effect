@@ -1,0 +1,10 @@
+{
+  "name": "research-declarative-redux-side-effect",
+  "version": "1.0.0",
+  "description": "Research different approaches to manage and reason about side-effects in async data fetching flow with Redux",
+  "main": "index.js",
+  "repository": "git@github.com:bhongy/research-declarative-redux-side-effect.git",
+  "author": "Thanik Bhongbhibhat <bhongbhibhat@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
